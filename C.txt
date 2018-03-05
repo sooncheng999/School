@@ -1,4 +1,4 @@
 # School
 
-#C language onlin tutorial
+#C language online tutorial
 https://github.com/sooncheng999/School.git 
