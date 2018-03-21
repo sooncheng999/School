@@ -1,4 +1,4 @@
 # School
 
-#C language online tutorial
-https://github.com/sooncheng999/School.git 
+#DBMS tutorial
+https://www.tutorialcup.com/dbms/index.htm
